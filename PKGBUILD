@@ -31,7 +31,7 @@ arch=(
   'powerpc'
   'pentium4'
 )
-pkgdesc=(
+_pkgdesc=(
   'Open-Source encoder of'
   'AVS2-P2/IEEE1857.4 video'
   'coding standard'
